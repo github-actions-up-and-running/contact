@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.0.2 (2020-03-05)
+
+次の誤りを修正しました。ご報告ありがとうございました。
+
+| ページ数 | 修正内容 | issue |
+| --- | --- | --- |
+| 108 | 誤: `Ocktokit`<br />正: `Octokit` | [#6](https://github.com/github-actions-up-and-running/contact/issues/6) |
+| 111〜 | TypeScript アクションの作成を書かれているとおりにすすめるとエラーとなるところを修正しました。 | [#7](https://github.com/github-actions-up-and-running/contact/issues/7) |
+
 ## v1.0.1 (2020-02-29)
 
 次の誤りを修正しました。ご報告ありがとうございました。
